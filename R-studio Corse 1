@@ -1,0 +1,47 @@
+library(png)
+path <- "Swirl.png"
+img1 <- readPNG(path,native=TURE,info=TRUE)
+img1 <- readPNG(path,native=TRUE,info=TRUE)
+install.packages("png"
+exit
+install.packages("png")
+if (x>3) {}
+if (x>3)
+library(swirl)
+library(swirl)
+swirl()
+swirl::install_course()
+swirl()
+5+7
+x<-5+7
+x
+y<-x-3
+y
+z<-c(1.1,9,3.14)
+?c
+z
+z<-(555) z<-(555)
+z<-c(555) z<-c(555)
+z<-c(555)z
+z<-c(555)
+c(z,555,z)
+z*2+100
+my_sqrt(z-1)
+my_sqrt<-x-1^2
+my_sqrt<-sqrt(z-1)
+my_sqrt
+my_div<-z/my_sqrt
+my_div
+my_add<-c(1,2,3,4) c(0,10)
+my_add<-c(1,2,34) c
+z<-c(1,2,3,4) + c(0,10)
+c(1,2,3,4)+c(1,10)
+c(1, 2, 3, 4) + c(0, 10)
+c(1, 2, 3, 4) + c(0, 10, 100)
+z*2+1000
+my
+'my'
+my_div
+| You are quite good my friend!
+| You've reached the end of this lesson! Returning to the main menu...
+| Please choose a course, or type 0 to exit swirl.
